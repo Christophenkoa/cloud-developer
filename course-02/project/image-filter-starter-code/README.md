@@ -44,5 +44,4 @@ Prevent requests without valid authentication headers.
 
 ### Custom Domain Name
 
-Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
-> !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+http://image-filter-starter-code-dev-2237.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
